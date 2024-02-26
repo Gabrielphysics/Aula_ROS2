@@ -1,0 +1,6 @@
+parametros:
+  ros__parameters:
+    parametro_inteiro: 40
+    parametro_string: "ola"
+    parametro_booleano: true
+    
